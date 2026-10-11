@@ -1,0 +1,15 @@
+Good morning everyone,
+
+Think for a moment about how quickly our world changes. Just a couple of decades ago, accessing computing power required sitting at a bulky desktop or waiting on slow dial-up connections. Today, each of us carries a supercomputer in our pocket, connected to a global network of information and intelligence.
+
+We are currently witnessing one of the most exciting shifts in human history: the rise of intelligent systems. We have moved beyond writing rigid, rule-based code to building systems that can understand context, parse natural language, and assist us in solving problems faster than ever before.
+
+What makes this era remarkable isn’t just the complexity of the technology, but its accessibility. Tools that once required massive supercomputing clusters and specialized research labs are now accessible right in our browsers with just a few lines of code. Whether it is building intelligent workflows, automating tedious daily tasks, or finding patterns in vast amounts of data, the barrier between an idea and its execution has never been smaller.
+
+However, the real power of modern technology has never been the tools themselves; it is how we choose to use them. Software and AI are multipliers. They don’t replace our curiosity, our creativity, or our ability to solve problems—they amplify them.
+
+As developers, students, and creators, the challenge and opportunity before us is simple: not just to use these systems as consumers, but to understand them, shape them, and build solutions that genuinely improve the world around us.
+
+The future isn’t something we wait for; it’s something we build one line of code and one idea at a time.
+
+Thank you.
